@@ -3,6 +3,7 @@ alias gst='git status -s'
 alias grog='git log --graph --abbrev-commit --decorate --all --format=format:"%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(dim white) - %an%C(reset) %C(bold green)(%ar)%C(reset)%C(bold yellow)%d%C(reset)%n %C(white)%s%C(reset)"'
 alias gac='git add -A && git commit -m'
 alias gpush='git push origin $(current_branch)'
+alias gpull='git pull origin $(current_branch)'
 alias projects='cd ~/projects'
 
 # функция возвращает текущую ветку, в которой сейчас находимся

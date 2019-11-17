@@ -1,3 +1,3 @@
-update_bash:
+bash:
 	cp reinstallsystem/.bashrc ~/
 	cp reinstallsystem/.bash_profile ~/

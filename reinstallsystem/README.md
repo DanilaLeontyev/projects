@@ -41,10 +41,16 @@ Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://get.
  ## Установить typescript compiler
   
 ```
-  npm install -g ts-node
-  npm i -g typescript
+  npm install -g ts-node typescript create-react-app
 ```
 
+Склонировать репозиторий https://github.com/DanilaLeontyev/projects
+
+Выполнить команду make bash из корня склонированного репозитория
 
 
-
+## Создать новый проект
+  1. React + typescript
+   ```
+   cra <name_app>
+   ```

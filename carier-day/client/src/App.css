@@ -1,0 +1,82 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.appHeader {
+  padding-top: 20px;
+  width: 90%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-bottom: 20px;
+}
+
+.appHeader--logo {
+  height: 15vh;
+}
+
+.appMain {
+  width: 90%;
+  margin-bottom: 20px;
+}
+
+.appFooter {
+  width: 90%;
+  display: flex;
+  margin-bottom: 10px;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.Footer--buttonContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.Footer--buttonContainer .button {
+  width: 100%;
+  margin-right: 20px;
+}
+
+.Footer--buttonContainer .button__last {
+  margin-right: 0;
+}
+
+.boy--pic {
+  width: 150px;
+  margin-bottom: 20px;
+}
+
+.appLeave {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.appLeave--text {
+  margin-bottom: 20px;
+}
+
+@media all and (orientation: landscape) {
+  .appHeader {
+    padding-top: 30px;
+    width: 85%;
+  }
+
+  .appHeader--logo {
+    height: 30vh;
+  }
+
+  .appMain {
+    width: 85%;
+  }
+
+  .appFooter {
+    width: 85%;
+  }
+}

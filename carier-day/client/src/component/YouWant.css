@@ -1,0 +1,37 @@
+.YouWant--choose {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.choose--column {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.choose--column .button {
+  margin-bottom: 120px;
+  width: 100%;
+}
+
+.choose--column .button:last-child {
+  margin-bottom: 0;
+}
+
+.YouWant--pic {
+  width: 30%;
+  align-self: center;
+}
+
+@media all and (orientation: landscape) {
+  .choose--column .button {
+    margin-bottom: 120px;
+  }
+
+  .YouWant--pic {
+    width: 20%;
+  }
+}

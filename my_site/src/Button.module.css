@@ -1,0 +1,16 @@
+.ok {
+  background-color: green;
+}
+
+.fontStyle {
+  font-size: 25px;
+}
+
+.button {
+  composes: fontStyle;
+  color: purple;
+}
+
+.cancel {
+  background-color: red;
+}

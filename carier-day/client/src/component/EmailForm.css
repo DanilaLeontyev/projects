@@ -1,0 +1,33 @@
+.EmailForm {
+  margin-top: 20px;
+}
+.EmailForm--form {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.form--input {
+  margin-bottom: 20px;
+  height: 30px;
+}
+
+.EmailForm--img {
+  width: 100px;
+  margin-bottom: 20px;
+}
+
+.EmailForm--img__landscape {
+  display: none;
+}
+
+.formLabel__invalid {
+  color: red;
+}
+
+@media all and (orientation: landscape) {
+  .EmailForm--img {
+    width: 30%;
+    margin: 0 auto;
+  }
+}

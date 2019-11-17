@@ -1,0 +1,31 @@
+.App {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.header--avatar {
+  height: 200px;
+}
+
+.ins {
+  width: 40px;
+}
+
+.App--rightColumn {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.rightColumn--text {
+  color: white;
+  font-family: 'Fira Code';
+  font-size: 14px;
+}
+
+.rightColumn--link {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 0;
+}

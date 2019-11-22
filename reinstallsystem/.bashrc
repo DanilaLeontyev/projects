@@ -4,7 +4,7 @@ alias grog='git log --graph --abbrev-commit --decorate --all --format=format:"%C
 alias gac='git add -A && git commit -m'
 alias gpush='git push origin $(current_branch)'
 alias gpull='git pull origin $(current_branch)'
-alias projects='cd ~/projects'
+alias p='cd ~/projects'
 
 # функция возвращает текущую ветку, в которой сейчас находимся
 function current_branch() {
@@ -16,13 +16,11 @@ function current_branch() {
 # Создать новый проект с использованием create-react-app c названием
 cra(){
   npx create-react-app "$1" --typesctipt
-  cp .gitignore $1/
 }
 
 # Создать папку с именем $1 и инициализировать там npm
 cempty() {
   mkdir "$1"
-  cp .gitignore $1/
   cd $1
   npm init -y
   touch index.ts

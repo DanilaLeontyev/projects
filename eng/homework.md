@@ -5,18 +5,18 @@
 
   D: Hi! I`m Danila.
   A: Hello! I`m Artemiy Klimov.
-  D: Where are you come from, Artemiy?
-  A: I am come from Volgograd
+  D: Where do you come from, Artemiy?
+  A: I come from Volgograd
   D: What do you work with?
-  A: Programmer. I am want to know more about IT-sphere.
-  D: Where are you working?
+  A: I`am a programmer. I want to know more about IT-sphere.
+  D: Where do you work?
   A: At Central Bank, in Yekaterinburg.
   D: Do you go to work every day? 
-  A: Yes. My work is starting at 8:00 and finishing at 17:00
-  D: How you are traveling to and from work?
+  A: Yes. My work starts at 8:00 and finishes at 17:00
+  D: How do you travel to and from work?
   A: By bus or by tram
   D: What are you doing this evening?
-  A: I play on guitar, then I teach my friend English. We call by Skype.
+  A: I am playing the guitar, then I am teaching my friend English. We are going to use Skype.
 
   ### 23
 
@@ -35,6 +35,23 @@
   Today she constantly on a diet and go to gym.
   She looks good and she body in shape.
   In free time she going to theatre or parties.
+   
 
-
-  
+  Who is?
+    Liza Smithe.
+    British singer.
+    On covers of magazines.
+  Life before.
+    Eight years ago.
+    Lived in Terraced house with parents and three brothers.
+    They did`t have a lot of money.
+    And so one she worked as cleaner at the local hospital.
+    She was plump, she ate chips and chocolate.
+    Start sing in choir.
+    Friend liked her voice.
+    People hired her to sing at parties.
+    She recorded a cessette and sended company.
+  Life today. Nowadays
+    Lives in large house wit husband and doughter
+    Her body in shape, gym, diet
+    In free time theatre or parties

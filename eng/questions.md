@@ -65,3 +65,46 @@
   > She was a doctor, wasn`t she?
 
   > She is watching TV now, isn`t she?
+
+# Work
+
+She works at the school for 9 years.
+  - Does she work at the school for 9 years?
+  - Where does she work?
+  - When does she work at the school? 
+  - Who works at the school?
+  - Does she work at the school or at the university?
+  - She works at the school, doesn`t she?
+
+I wake up 6 a.m. every day
+  - Do I wake up at 6 a.m. every day?
+  - How often do I wake up at 6 a.m.?
+  - When do I wake up every day?
+  - Who wake up at 6 a.m. every day?
+  - Do I wake up at 6 a.m. or at 7 a.m?
+  - I wake up at 6 a.m. every day, don`t I?
+
+Mike is a very good fighter from the USA
+  - Is Mike a fighter?
+  - Is Mike a good fighter?
+  - Where is Mike from?
+  - Who is Mike?
+  - Is Mike a good fighter or a good dancer?
+  - Mike is a very good fighter, isn`t he?
+
+I went to the gym 5 times a week in 2007.
+  - Did I go to the gym in 2007?
+  - How often did I go to the gym in 2007?
+  - When did I go to the gym?
+  - Where did I go 5 times a week in 2007?
+  - Who went to the gym?
+  - Did you go to the gym or to the university in 2007?
+  - I went to the gym, didn`t I?
+
+He is reading his favourite book right now
+  - Is he reading his favourite book?
+  - What is he doing right now?
+  - What is he reading?
+  - Who is reading right now?
+  - Is he reading or wathing TV?
+  - He is reading, isn`t he?

@@ -55,3 +55,6 @@
     Lives in large house wit husband and doughter
     Her body in shape, gym, diet
     In free time theatre or parties
+
+## Homework 2
+Write the questions for sentece form skype

@@ -57,4 +57,77 @@
     In free time theatre or parties
 
 ## Homework 2
-Write the questions for sentece form skype
+  1. I am cooking pizza at my mother`s house right now.
+    1. Am I cooking pizza at my mother`s houser right now?
+    2. Where am I cooking pizza?
+    3. Who is cooking pizza?
+    4. Am I cooking or watching?
+    5. I am cooking pizza, am not I?
+  2. John wakes up at 7 a.m. every day and makes breakfast
+    1. Does he wake up at 7 a.m.?
+    2. How often does he wake up at 7 a.m?
+    3. When does he wake up every day?
+    4. What does John do every day?
+    5. What does John do, when he wake up?
+    6. Who wake up at 7 a.m. every day?
+    7. Does John wake up at 7 a.m. or 8 a.m?
+    8. John wakes up at 7 a.m., doesn`t he?
+  3. She was young when her mother died.
+    1. Did she was young, when her mother died?
+    2. How old did she was, when her mother died?
+    3. Who died, when she was young?
+    4. Did she was young or old, when her mother died?
+    5. She was young when her mother died, didn`t she?
+  4. Artemiy makes Roma train hard at the gym.
+    1. Does Artemiy make Roma train hard at the gym?
+    2. What does Artemiy make Roma at the gym?
+    3. Who make Roma train hard at the gym?
+    4. Who train hard at the gym?
+    5. Does Artemiy makes Roma train hard or easy at the gym?
+    6. Artemiy makes Roma train hart at the gym, does`t he?
+  5. I have bought a lot of cheese! I want to make best pizza ever.
+    1. Did you bought a lot of cheese?
+    2. Did you want to make best pizza ever?
+    3. What did you want to do with a lot of cheese?
+    4. What did you bought?
+    5. How many did you bought cheese?
+    6. Who bought cheese?
+    7. Who want to make best pizza?
+    8. Did you want to make best pizza or hamburger?
+    9. I have bought a lot of cheese, didn`t I?
+    10. I want to make best pizza, didn`t I?
+  6. Bas Rutten is from Holland, but he lives in the USA.
+    1. Is Bas Ruten come from Holland?
+    2. Is Bas live in the USA?
+    3. Where is Bas Rutten come from?
+    4. Where does Bas live?
+    5. Who live in the USA?
+    6. Who is from Holland?
+    7. Is Bas come from Holland or Paris?
+    8. Bas Rutten is from Holland, isn`t he?
+    9. Bas Rutten lives in the USA, doesn`t he?
+  7. My mother visits her countryside house every weekend.
+    1. Does my mother visit her counryside house?
+    2. How often does my mother visit her house?
+    3. Where does my mother go every weekend?
+    4. Who visit house every weekend?
+    5. My mother visits her house, doesn`t she?
+  8. She is reading her favourite book right now.
+    1. Is she reading her book?
+    2. What is she doing?
+    3. What is she reading?
+    4. Who is reading book?
+    5. Is she reading book or watching TV?
+    6. She is reading, isn`t she?
+  9. I always wanted to be a good fighter.
+    1. Did I want to be a good fighter?
+    2. Who did I want to be?
+    3. Who want to be a good fighter?
+    4. Did I want to be a fighter or a boxer?
+    5. I want to be a fighter, didn`t I?
+  10. Danila learns English twice a week.
+    1. Does Danila learn English?
+    2. What does Danila learn?
+    3. Who learn English?
+    4. Does Danila learn English or Doutch?
+    5. Danila learns English, doesn`t he?

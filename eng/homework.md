@@ -132,3 +132,7 @@
     3. Who learns English?
     4. Does Danila learn English or Doutch?
     5. Danila learns English, doesn`t he?
+
+## Homework 3
+  Shopping in Yekaterinburg like text in page 19.(Не изобретать велосипед)
+  page 21. Text. Нормально читать и переводить.
